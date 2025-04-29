@@ -1,15 +1,16 @@
-##Ciencia de datos y analítica cultural 2025
-##Maestro Alejandro Servin V.1.0
-##Ejercicios 1.1 a 1.11
+## Ciencia de datos y analítica cultural 2025
+## Maestro Alejandro Servin V.1.0
+## Paula Larios Aguilar - A01253950
+## Ejercicios 1.1 a 1.11
 
 #Ejercicio 1.1 - Realiza las siguientes cuatro operaciones matemáticas
-
-#5 - 3  
-#5/ 3  
-#5 * (10 - 3)  
-#sqrt(4)
+5 - 3  
+5/ 3  
+5 * (10 - 3)  
+sqrt(4)
 
 #Ejercicio 1.2 - Realiza una operación matemática desde la consola. Así se evita la saturación en el script.
+...
 
 #Ejercicio 1.3. - Instala y corre las siguientes librerías junto con el libro de texto del curso
 install.packages("githubinstall")
@@ -37,8 +38,8 @@ print(resultado)
 ls()
 
 #Ejercicio 1.7. - Crea un objeto utilizando tu nombre de pila (en minísculas) y tu profesión. Después tu nombre_apellido con tu matrícula
-alex <- "empresario y profesor"
-alex_servin <- "990991"
+paula <- "estudiante y bailarina"
+paula_larios <- "A01253950"
 
 #Ejercicio 1.8 - Revisa en dónde estás archivando tus trabajos
 getwd()
